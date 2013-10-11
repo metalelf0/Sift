@@ -98,7 +98,8 @@ hi PmenuSel     guibg=#4a85ba guifg=#b0d0f0
 hi MatchParen   guibg=#200080 guifg=#f0f080
 
 
-
+" Cursor Line should be just a little brighter than bg
+hi CursorLine guibg=#22334d
 
 
 " color terminal definitions
