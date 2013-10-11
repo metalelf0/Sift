@@ -99,7 +99,7 @@ hi MatchParen   guibg=#200080 guifg=#f0f080
 
 
 " Cursor Line should be just a little brighter than bg
-hi CursorLine guibg=#22334d
+hi CursorLine guibg=#162233
 
 
 " color terminal definitions
