@@ -101,6 +101,12 @@ hi MatchParen   guibg=#200080 guifg=#f0f080
 " Cursor Line should be just a little brighter than bg
 hi CursorLine guibg=#162233
 
+" TabBar
+hi TabLineFill guibg=#0c121c guifg=#0c121c
+hi TabLine     guibg=#0c121c guifg=#b4dcbc
+hi TabLineSel  guibg=#162233  guifg=#dfee83
+
+" hi Normal       guifg=#b4dcbc guibg=#0c121c
 
 " color terminal definitions
 hi Normal ctermfg=grey
